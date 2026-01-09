@@ -1,0 +1,60 @@
+[INFO] 09-01-2026 22:32:48 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:27)] - Edge driver is opened
+[INFO] 09-01-2026 22:32:53 [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:29)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:32:53 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case validLoginTC started
+[INFO] 09-01-2026 22:32:54 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case validLoginTC passed
+[INFO] 09-01-2026 22:32:55 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:28)] - Edge driver is opened
+[INFO] 09-01-2026 22:32:57 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:30)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:32:57 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case clickOnCartIconTC started
+[INFO] 09-01-2026 22:32:58 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case clickOnCartIconTC passed
+[INFO] 09-01-2026 22:32:59 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:28)] - Edge driver is opened
+[INFO] 09-01-2026 22:33:00 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:30)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:33:00 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case comparingAddingRandomNumberOfSelectedProductsTC started
+[INFO] 09-01-2026 22:33:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:66)] - random product is 2
+[INFO] 09-01-2026 22:33:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:66)] - random product is 4
+[INFO] 09-01-2026 22:33:01 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:66)] - random product is 5
+[INFO] 09-01-2026 22:33:01 [main] [Pages.P02_LandingPage.getNumberOfProductsInCartIcon(P02_LandingPage.java:44)] - number of products in cart: 3
+[INFO] 09-01-2026 22:33:01 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - number of selected products: 3
+[INFO] 09-01-2026 22:33:01 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case comparingAddingRandomNumberOfSelectedProductsTC passed
+[INFO] 09-01-2026 22:33:03 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:28)] - Edge driver is opened
+[INFO] 09-01-2026 22:33:04 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:30)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:33:04 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case comparingNumberOfSelectedProductsTC started
+[INFO] 09-01-2026 22:33:04 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:34)] - number of all products: 6
+[INFO] 09-01-2026 22:33:05 [main] [Pages.P02_LandingPage.getNumberOfProductsInCartIcon(P02_LandingPage.java:44)] - number of products in cart: 6
+[INFO] 09-01-2026 22:33:05 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - number of selected products: 6
+[INFO] 09-01-2026 22:33:05 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case comparingNumberOfSelectedProductsTC passed
+[INFO] 09-01-2026 22:33:06 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:28)] - Edge driver is opened
+[INFO] 09-01-2026 22:33:10 [main] [Tests.TC02_LandingTest.setup(TC02_LandingTest.java:30)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:33:10 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case inValidComparingNumberOfSelectedProductsTC started
+[INFO] 09-01-2026 22:33:10 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:34)] - number of all products: 6
+[INFO] 09-01-2026 22:33:11 [main] [Pages.P02_LandingPage.getNumberOfProductsInCartIcon(P02_LandingPage.java:44)] - number of products in cart: 6
+[INFO] 09-01-2026 22:33:11 [main] [Pages.P02_LandingPage.getNumberOfSelectedProducts(P02_LandingPage.java:55)] - number of selected products: 6
+[INFO] 09-01-2026 22:33:11 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case inValidComparingNumberOfSelectedProductsTC failed
+[INFO] 09-01-2026 22:33:12 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:29)] - Edge driver is opened
+[INFO] 09-01-2026 22:33:16 [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:31)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:33:16 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case comparingPricesTC started
+[INFO] 09-01-2026 22:33:16 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:66)] - random product is 2
+[INFO] 09-01-2026 22:33:16 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:66)] - random product is 5
+[INFO] 09-01-2026 22:33:17 [main] [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:90)] - Total price: 17.98
+[INFO] 09-01-2026 22:33:17 [main] [Pages.P03_CartPage.getTotalPriceInCart(P03_CartPage.java:30)] - Total price: 17.98
+[INFO] 09-01-2026 22:33:17 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case comparingPricesTC passed
+[INFO] 09-01-2026 22:33:18 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:32)] - Edge driver is opened
+[INFO] 09-01-2026 22:33:19 [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:34)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:33:19 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case checkoutStepOneTC started
+[INFO] 09-01-2026 22:33:20 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:66)] - random product is 3
+[INFO] 09-01-2026 22:33:20 [main] [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:66)] - random product is 5
+[INFO] 09-01-2026 22:33:21 [main] [Tests.TC04_CheckoutTest.checkoutStepOneTC(TC04_CheckoutTest.java:46)] - abdallah-2026-01-09-10-32-45PM||lotfy-2026-01-09-10-32-45PM||16356
+[INFO] 09-01-2026 22:33:21 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case checkoutStepOneTC passed
+[INFO] 09-01-2026 22:33:22 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:33)] - Edge driver is opened
+[INFO] 09-01-2026 22:33:26 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:35)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:33:27 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case checkoutStepTwoTC started
+[INFO] 09-01-2026 22:33:27 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:34)] - number of all products: 6
+[INFO] 09-01-2026 22:33:28 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:47)] - abdallah-2026-01-09-10-32-45PM||lotfy-2026-01-09-10-32-45PM||06018
+[INFO] 09-01-2026 22:33:28 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:33)] - Calculated Total Price: 140.34
+[INFO] 09-01-2026 22:33:28 [main] [Pages.P05_OverviewPage.getTotalPrice(P05_OverviewPage.java:28)] - Actual Total Price: 140.34
+[INFO] 09-01-2026 22:33:28 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case checkoutStepTwoTC passed
+[INFO] 09-01-2026 22:33:30 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:33)] - Edge driver is opened
+[INFO] 09-01-2026 22:33:31 [main] [Tests.TC06_FinishingOrderTest.setup(TC06_FinishingOrderTest.java:35)] - SwagLabs login page is opened Successfully
+[INFO] 09-01-2026 22:33:31 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case finishOrderTC started
+[INFO] 09-01-2026 22:33:31 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:34)] - number of all products: 6
+[INFO] 09-01-2026 22:33:33 [main] [Tests.TC06_FinishingOrderTest.finishOrderTC(TC06_FinishingOrderTest.java:47)] - abdallah-2026-01-09-10-32-45PM||lotfy-2026-01-09-10-32-45PM||08725
+[INFO] 09-01-2026 22:33:33 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case finishOrderTC passed
